@@ -16,9 +16,9 @@
 - 
 
 ## UI/UX
-- ![img_2.png](img_2.png)게시글 리스트 페이지
-- ![img_3.png](img_3.png)게시글 등록 폼 페이지
-- ![img_4.png](img_4.png)게시글 상세 페이지
+- ![img_2.png](main/java/com/std/SpringBootTest/img_2.png)게시글 리스트 페이지
+- ![img_3.png](main/java/com/std/SpringBootTest/img_3.png)게시글 등록 폼 페이지
+- ![img_4.png](main/java/com/std/SpringBootTest/img_4.png)게시글 상세 페이지
 -  
 ## MVC 패턴
 - MVC 패턴은 애플리케이션의 구조를 세가지 역할로 분리하여 관리하는 디자인 패턴입니다.
